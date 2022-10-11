@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://josephcano.netlify.app/](https://josephcano.netlify.app/)
 
-- 📝 I try to write on [https://dumpsterfireblog.netlify.app/](https://dumpsterfireblog.netlify.app/)
+- 📝 I try to write on [blog.josephcano.com](https://blog.josephcano.com)
 
 - 💬 Ask me about **react, javascript, typescript, python, blender, etc**
 
