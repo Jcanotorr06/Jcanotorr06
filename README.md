@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **josephct06@gmail.com**
 
-- 📄 Know about my experiences [https://josephcano.netlify.app/](https://josephcano.netlify.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spoofy507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spoofy507" height="30" width="40" /></a>
