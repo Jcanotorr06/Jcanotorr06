@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/spoofy507" target="blank"><img src="https://img.shields.io/twitter/follow/spoofy507?logo=twitter&style=for-the-badge" alt="spoofy507" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://josephcano.netlify.app/](https://josephcano.netlify.app/)
+- 👨‍💻 All of my projects are available at [www.josephcano.com](http://www.josephcano.com)
 
 - 📝 I try to write on [blog.josephcano.com](https://blog.josephcano.com)
 
