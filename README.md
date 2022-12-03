@@ -18,4 +18,4 @@
 - 📫 Reach me: [https://twitter.com/spoofy507](https://twitter.com/spoofy507)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcanotorr06&layout=compact&langs_count=8&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcanotorr06&layout=compact&langs_count=10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
