@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Jcanotorr06)
+![](https://img.shields.io/github/commit-activity/m/jcanotorr06/jcanotorr06)
+![](https://img.shields.io/github/followers/jcanotorr06?color=4C1&logo=github)
+
 #### I'm a Full-Stack Developer working in Panama.
 
 ##### NOW
