@@ -9,7 +9,7 @@
 ##### NOW
 
 - ✨ Crafted last [Profepedia](https://profepedia.xyz) website;
-- 🇵🇹 Working on "Something Big";
+- 👀 Working on "Something Big";
 - 🍑 What about this?
 
 ##### BIO
