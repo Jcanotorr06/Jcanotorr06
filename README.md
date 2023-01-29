@@ -8,7 +8,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Profepedia](https://profepedia.xyz) website;
+- ✨ Crafted last: [Profepedia](https://profepedia.xyz) website;
 - 👀 Working on "Something Big";
 - 🍑 What about this?
 
